@@ -1,7 +1,7 @@
-# Базовый курс веб-разработки
+﻿# Базовый курс веб-разработки
 
-* Студент:  `undefined`.
-* Ментор: `undefined`.
+* Студент:  `Антон Загрия`.
+* Ментор: `Никита Абельмасов`.
 * План занятий: [нате](https://docs.google.com/document/d/1e6PG06nszODebSn5DsqBsG6AujbXoKmqj1drDsoQElM/edit?usp=sharing).
 * Требования к выпускному проекту: [тут](https://docs.google.com/document/d/16VOU_viRMtN2wBW6nv_2rGkjsI8PiBILPVwKOMp-vMs/edit?usp=sharing).
 * Экзаменационные вопросы: [вот](https://docs.google.com/document/d/16MYa5-VYmnF4OFAtIeR-MEs23RMh0LHaHyQ_W0ZO8wE/edit?usp=sharing).
@@ -10,7 +10,7 @@
 
 ## Проходил "Начальный курс веб-разработки"? Если да, то с каким результатом?
 
-`undefined`
+`Да, сдал проэкт.`
 
 ---
 
